@@ -1,1 +1,1 @@
-# weather-bot
+# Weather Telegram Bot
