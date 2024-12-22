@@ -1,2 +1,2 @@
 print("Do nothing")
-print()
+print("FIRST CHANGE")
