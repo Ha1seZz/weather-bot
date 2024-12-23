@@ -1,2 +1,2 @@
-print("Do nothing")
-print("FIRST CHANGE")
+for i in range(5):
+    print(i)
